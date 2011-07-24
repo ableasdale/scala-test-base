@@ -15,7 +15,7 @@ class SampleTest extends Spec with ShouldMatchers {
       2 + 2 should be(4)
     }
     it("should be able to multiply") {
-      8 * 8 should be(64)
+      8 * 8 should be(65)
     }
 
   }
